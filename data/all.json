@@ -1,0 +1,7 @@
+{
+    "employees": [
+      {"name": "Alice Smith", "age": 28, "department": "HR"},
+      {"name": "Bob Johnson", "age": 35, "department": "Engineering"},
+      {"name": "Carol Williams", "age": 42, "department": "Marketing"}
+    ]
+  }
