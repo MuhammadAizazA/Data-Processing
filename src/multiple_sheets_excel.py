@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Define list of dictionaries
 height_data=[{"Name":"Aditya","Height":179},
       {"Name":"Sameer","Height":181},
       {"Name":"Dharwish","Height":170},
@@ -16,7 +15,6 @@ marks_data=[{"Name":"Aditya","Marks":79},
       {"Name":"Dharwish","Marks":70},
       {"Name":"Joel","Marks":67}]
 
-# Convert list of dictionaries to dataframe
 height_df=pd.DataFrame(height_data)
 weight_df=pd.DataFrame(weight_data)
 marks_df=pd.DataFrame(marks_data)
